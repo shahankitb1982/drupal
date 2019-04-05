@@ -4,3 +4,11 @@ core
 #Composer vendor
 vendor/
 vendor/.git
+
+.csslintrc
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitattributes
+.ht.router.php
+.htaccess
