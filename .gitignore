@@ -1,0 +1,6 @@
+# Ignore drupal core.
+core
+
+#Composer vendor
+vendor/
+vendor/.git
