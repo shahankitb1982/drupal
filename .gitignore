@@ -11,4 +11,3 @@ vendor/.git
 .eslintrc.json
 .gitattributes
 .ht.router.php
-.htaccess
